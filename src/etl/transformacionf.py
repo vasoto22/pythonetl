@@ -219,6 +219,7 @@ class Main:
                 df_final = self.transformacion.ejecutar_operaciones(df_final, operaciones)
                 if "unnamed_0" in df_final.columns:
                     df_final = df_final.drop(df_final.columns[0], axis=1)
+                #df_final.to_excel('datos_mundo.xlsx', index=False)
                 self.transformacion.carga.cargar_a_bd(df_final, tabla) 
         except Exception as e:
             self.logs.log(f'Error al ejecutar el proceso ETL: {str(e)}', 'error')
