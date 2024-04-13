@@ -1,0 +1,3 @@
+2024-04-13 09:19:35,830 - INFO - Intentar cargar la ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 09:19:35,830 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 09:19:35,863 - ERROR - Error al ejecutar el proceso ETL: list index out of range

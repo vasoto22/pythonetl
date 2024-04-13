@@ -1,0 +1,17 @@
+2024-04-13 08:47:16,453 - INFO - Intentar cargar la ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 08:47:16,454 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 08:47:16,454 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 08:47:16,504 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 08:47:16,504 - INFO - nombre columnas antes : RangeIndex(start=0, stop=0, step=1)
+2024-04-13 08:47:16,504 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 08:47:16,504 - INFO - nombre columnas antes : RangeIndex(start=0, stop=0, step=1)
+2024-04-13 08:47:16,505 - INFO - nombre columnas despues : Index([], dtype='object')
+2024-04-13 08:47:16,505 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 08:47:16,505 - INFO - nombre columnas despues : Index([], dtype='object')
+2024-04-13 08:47:16,505 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 08:47:16,506 - INFO - None
+2024-04-13 08:47:16,506 - INFO - ******** Informacion del descripcion del dataframe ***************
+2024-04-13 08:47:16,506 - ERROR - Error al ejecutar el proceso ETL: Cannot describe a DataFrame without columns
+2024-04-13 08:47:16,506 - INFO - None
+2024-04-13 08:47:16,506 - INFO - ******** Informacion del descripcion del dataframe ***************
+2024-04-13 08:47:16,506 - ERROR - Error al ejecutar el proceso ETL: Cannot describe a DataFrame without columns

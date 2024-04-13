@@ -1,0 +1,17 @@
+{
+    "archivos": [
+        "C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv",
+        "C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/metadata_countries.csv",
+        "C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/country_list.csv"
+
+    ],
+    
+        "tabla": "data_population_world",
+        "operaciones": [
+            {
+                "tipo": "imprimir_info"
+            }
+        ]
+    }
+    
+

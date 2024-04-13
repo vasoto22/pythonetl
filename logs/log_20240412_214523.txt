@@ -1,0 +1,1 @@
+2024-04-12 21:45:23,282 - ERROR - Error al ejecutar el proceso ETL: [Errno 2] No such file or directory: 'C:/src/procesamientodeetl/dev/2024_04-main/src/etl/static7config.json'

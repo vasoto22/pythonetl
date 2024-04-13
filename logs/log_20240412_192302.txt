@@ -1,0 +1,1 @@
+ERROR:root:Error al ejecutar el proceso ETL: [Errno 2] No such file or directory: 'D:/ITM/2024_1/marzo_16_a_31/material_formacion/2024_04/src/etl/static/config.json'

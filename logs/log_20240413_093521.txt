@@ -1,0 +1,39 @@
+2024-04-13 09:35:21,283 - INFO - Intentar cargar la ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 09:35:21,284 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/data_population_world.csv
+2024-04-13 09:35:21,309 - INFO - Intentar cargar la ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/metadata_countries.csv
+2024-04-13 09:35:21,309 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/metadata_countries.csv
+2024-04-13 09:35:21,312 - INFO - Intentar cargar la ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/country_list.csv
+2024-04-13 09:35:21,312 - INFO - valida extension  .csv C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/country_list.csv
+2024-04-13 09:35:21,490 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 09:35:21,490 - INFO - nombre columnas antes : Index(['country_code', 'country_name', 'region_name', 'sub_region_name',
+       'income_group', 'year', 'population', 'pop_millon', 'rate_pop',
+       'rate_pop_millon'],
+      dtype='object')
+2024-04-13 09:35:21,491 - INFO - nombre columnas despues : Index(['country_code', 'country_name', 'region_name', 'sub_region_name',
+       'income_group', 'year', 'population', 'pop_millon', 'rate_pop',
+       'rate_pop_millon'],
+      dtype='object')
+2024-04-13 09:35:21,491 - INFO - ******** Informacion del Dataframe *******************************
+2024-04-13 09:35:21,531 - INFO - None
+2024-04-13 09:35:21,531 - INFO - ******** Informacion del descripcion del dataframe ***************
+2024-04-13 09:35:21,554 - INFO -          population    pop_millon      rate_pop  rate_pop_millon
+count  1.330000e+04  13300.000000  13085.000000     13085.000000
+mean   2.491994e+07     24.919226      1.800476         1.800703
+std    1.040427e+08    104.042843      1.832128         1.832496
+min    2.646000e+03      0.000000    -24.211396       -24.200000
+25%    4.991510e+05      0.500000      0.699523         0.700000
+50%    4.275039e+06      4.300000      1.732609         1.700000
+75%    1.370154e+07     13.700000      2.695586         2.700000
+max    1.412360e+09   1412.400000     22.719661        22.700000
+2024-04-13 09:35:21,554 - INFO - ************ total de NANs del dataframe *************************
+2024-04-13 09:35:21,558 - INFO - country_code         0
+country_name         0
+region_name          0
+sub_region_name      0
+income_group         0
+year                 0
+population           0
+pop_millon           0
+rate_pop           215
+rate_pop_millon    215
+dtype: int64

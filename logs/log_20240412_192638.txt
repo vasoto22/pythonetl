@@ -1,0 +1,5 @@
+INFO:root:extracion intertar cargar ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/countries_gdp_hist.csv
+ERROR:root: hora : 192638 Error al cargar datos desde el archivo C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/countries_gdp_hist.csv: Error tokenizing data. C error: Expected 1 fields in line 2358, saw 2
+
+INFO:root:extracion intertar cargar ruta C:/src/procesamientodeetl/dev/2024_04-main/src/etl/data/transformacion/country_list.csv
+ERROR:root:Error al ejecutar el proceso ETL: 'columna1'
